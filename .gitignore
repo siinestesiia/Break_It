@@ -1,0 +1,19 @@
+# Ignored stuff 
+
+Backup Project/
+Social Media/
+
+Break It! Process Recordings/
+Break_It!_Project/.vscode
+Break_It!_Project/Library
+Break_It!_Project/Logs
+Break_It!_Project/obj
+Break_It!_Project/Packages
+Break_It!_Project/ProjectSettings
+Break_It!_Project/UserSettings
+Break_It!_Project/Assembly-CSharp.csproj
+Break_It!_Project/Break It! Project.sln
+Break_It!_Project/Break It!.sln
+
+Break_It!_Project/Assets/Physics Materials
+Break_It!_Project/Assets/TextMeshPro
